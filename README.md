@@ -1,7 +1,7 @@
 # Autoregressive Diffusion
 
 <p align="center">
-  <img src="Autoregressive Diffusion.png" alt="Autoregressive Diffusion" style="display:block; margin:auto; width:550px;" />
+  <img src="Autoregressive Diffusion.png" alt="Autoregressive Diffusion" style="display:block; margin:auto; width:450px;" />
 </p>
 
 PyTorch implementation of Autoregressive Diffusion.
